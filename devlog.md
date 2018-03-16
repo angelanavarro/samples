@@ -96,14 +96,14 @@ Once the GeoJSON data was ready, I used the magic of [tippecanoe](https://github
 I also used the magic of @morganherlocker to help me create an interface where the tileset could be visualized for a selected point of time.
 
 Here is what our first go with a small sample set looked like.
-<img src="https://github.com/mapbox/predictive-map/blob/proto_setup/images/traffic_take_one.gif?raw=true" width="500" align="center">
+<img src="https://github.com/angelanavarro/samples/blob/master/traffic_take_one.gif?raw=true" width="500" align="center">
 
 Sweet! Not bad! Looking around I could spot some pretty expected results like afternoon traffic on the Bay Bridge.
-![img](https://github.com/mapbox/predictive-map/blob/proto_setup/images/bay_bridge.gif?raw=true)
+![img](https://github.com/angelanavarro/samples/blob/master/bay_bridge.gif?raw=true)
 
 
 As well as some interesting ones, like traffic near Land's End on Tuesdays at 1am?!
-![img](https://github.com/mapbox/predictive-map/blob/proto_setup/images/lands_end.jpg?raw=true)
+![img](https://github.com/angelanavarro/samples/blob/master/lands_end.jpg?raw=true)
 
 
 ## Next steps
